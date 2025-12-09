@@ -22,8 +22,8 @@ Extension size
 File extension
 Secret file size
 Actual secret data (bit by bit)
-
 Save stego image
+
 🧩 How Decoding Works
 Load stego BMP
 Skip header and extract bits from LSBs
